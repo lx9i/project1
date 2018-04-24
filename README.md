@@ -1,2 +1,2 @@
-# project1
-test project
+# Hello World project
+test project for learning git
